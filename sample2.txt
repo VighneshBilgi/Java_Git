@@ -1,1 +1,3 @@
 This is sample2 modified by and added by developer 2
+This is sample2, added be developer 0
+
